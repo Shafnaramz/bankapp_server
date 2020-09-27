@@ -1,0 +1,17 @@
+Http Verbs/Http Methods
+=====================
+Get //Read data
+Post //Data Craete
+Put //Update data,Replacement
+Patch //partial Update
+Delete // Delete data
+
+REST-Representational State Tranfer
+
+API folows set of rule that rule obey is called REST
+
+1xx-Informational
+2xx-Success
+3xx-Redirection
+4xx-Client error
+5xx-Server error
